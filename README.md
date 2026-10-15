@@ -1,6 +1,7 @@
 # 1151VR-HW3-412401484-ChinYiu
 
-<img width="1429" height="756" alt="image" src="https://github.com/user-attachments/assets/e73c9175-7acf-4727-a5ba-e04542627ab2" />
+<img width="1422" height="755" alt="image" src="https://github.com/user-attachments/assets/c719e129-44ee-40f8-9109-da014069e1e6" />
+
 
 
 <br>
